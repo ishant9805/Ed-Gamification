@@ -1,5 +1,7 @@
 # EdGamification - Readme
 
+### Special thanks to   ![quine](https://quine.sh/images/quine-logo-white.svg)
+
 ## Overview
 Welcome to EdGamification, a project developed in Godot 4 game engine! This application aims to revolutionize education by incorporating gamification elements into the learning process. With EdGamification, teachers can create interactive and engaging lessons that motivate and inspire students to learn.
 
@@ -39,3 +41,4 @@ This project is developed and maintained by [Arka Dash](https://github.com/Nevro
 Thank you for choosing EdGamification! We hope this application revolutionizes your teaching experience and creates a dynamic and gamified learning environment for your students.
 
 Happy teaching and gaming!
+
